@@ -1,0 +1,11 @@
+linked list is a linear data structure with many nodes.
+each node contains data and address of next node data...
+insertion and deletion is easy in linked list without wastage of space and time...
+we can grow/shrink it on run time...
+
+->type:
+*singly*doubly*circular*circular doubly.
+
+-->singly linked list:
+    For insertion see singlyLinkedList.cpp.(we actually change pointer and data to pint to next or prev or that number)
+    
