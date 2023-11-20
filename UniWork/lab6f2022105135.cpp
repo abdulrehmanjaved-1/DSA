@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <cctype>
 #include<cmath>
 using namespace std;
 const int siz=10;
