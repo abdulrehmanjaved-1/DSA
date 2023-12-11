@@ -109,7 +109,7 @@ class Solution
         vector<int> ans;
         //checkpost
         if(root==NULL){return ans;}
-        //push firstg root
+        //push first root
         q.push(make_pair(root,make_pair(0,0)));
         //khelty hein upto not empty
         while(!q.empty()){
